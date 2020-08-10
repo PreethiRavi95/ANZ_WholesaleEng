@@ -1,0 +1,32 @@
+{
+
+  "585309209": {
+    "Account Name": "SGSavings726",
+    "Account Type": "Savings",
+    "Balance Date": "08/11/2018",
+    "Currency": "SGD",
+    "Opening Available Balance": 84327.51
+  },
+  "791066619": {
+    "Account Name": "AUSavings933",
+    "Account Type": "Savings",
+    "Balance Date": "08/11/2018",
+    "Currency": "AUD",
+    "Opening Available Balance": 88005.93
+  },
+  "321143048": {
+    "Account Name": "AUCurrent433",
+    "Account Type": "Current",
+    "Balance Date": "08/11/2018",
+    "Currency": "AUD",
+    "Opening Available Balance": 38010.62
+  },
+  "347786244": {
+    "Account Name": "SGCurrent166",
+    "Account Type": "Current",
+    "Balance Date": "08/11/2018",
+    "Currency": "SGD",
+    "Opening Available Balance": 50664.65
+  }
+
+}
